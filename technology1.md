@@ -12,7 +12,7 @@ Students are receiving better education with the help of technologies. Distance 
 
  
 
-
+However, offline classes are still essential as they provide students with more communication opportunities. As students are taught by teacher face to face, they will receive timely response if they have any questions. Group discussions and group projects will also train student's communication skills as students need to work together to solve problems. Communication would be insufficient  and misunderstanding will occur between students if they talk merely rely on email or telephone. 
 
 
 
@@ -20,7 +20,7 @@ Students are receiving better education with the help of technologies. Distance 
 
 相似
 
-Universities and colleges are now **offering qualifications** through distance learning from the Internet rather than teachers in the classroom. Do you think the advantages of this development outweigh the disadvantages
+Universities and colleges are  now **offering qualifications** through distance learning from the Internet rather than teachers in the classroom. Do you think the advantages of this development outweigh the disadvantages
 
 Although I understand the advantage of distance learning, I maintain that the disadvantages may **have more impact on** the learning process than the advantages in some cases.
 
@@ -31,3 +31,4 @@ Nonetheless, the disadvantage should not be ignored. First, the lack of social i
 
 
 In conclusion, although distance learning is known for flexibility, it does not necessarily suit all types of students. It is generally a poor option for students who are less-motivated or are not used to communicating through emails or other forms of e-communication.
+
